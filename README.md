@@ -5,8 +5,8 @@
 ### INSTALLATION
 
 #### Requirements: Git and python installed
-Using git in terminal: `git clone https://github.com/glucard/A_star_IA_UFRR.git`
-Install the matplotlib using: `pip install matplotlib`
+##### Using git in terminal: `git clone https://github.com/glucard/A_star_IA_UFRR.git`
+##### Install the matplotlib using: `pip install matplotlib`
 
 ### EXECUTING
 
